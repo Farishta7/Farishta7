@@ -2,7 +2,7 @@ Hello! 👋
 
 - I'm an Accouting & Finance graduate with a new found interest for coding. 
 
-- I'm a recent graduate from the Northcoders 13-week coding bootcamp and excited to learn further! 
+- I'm a recent graduate from the Northcoders 13-week coding bootcamp and excited to learn further! Open to junior software developer roles. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farishtatq/) 
